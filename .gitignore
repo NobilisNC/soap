@@ -1,0 +1,5 @@
+*build*
+*.autogen*
+*.save*
+*.o*
+*.tmp*
